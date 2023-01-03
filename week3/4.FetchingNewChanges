@@ -14,7 +14,8 @@
 
 # git log origin/master
 # git status
-# git merge origin/master
+# git merge origin/master (si el HEAD branch indica main aqui habra que poner main)
+# git log
 #
  
 
