@@ -1,0 +1,20 @@
+# cd health-check
+# git remote show origin
+* remote origin
+  Fetch URL:
+  Push URL:
+  HEAD branch: master
+  .
+  . 
+  Local ref configured for 'git push':
+    master pushes to master (local out of date)
+
+# git fetch --> this command copies the commites done in the remote repository to the remote branches,
+                 so we can see what other people have committed
+
+# git log origin/master
+# git status
+# git merge origin/master
+#
+ 
+

@@ -1,0 +1,10 @@
+After we create a repo in Github:
+
+git clone .....
+cd <repo>
+vim README.md --> lo modifico
+git push ---> lo subo a Github
+
+Si quiere eviat la autenticacion cada cierto tiempo:
+
+git config --glocal credential.helper cache --> 15 minutes

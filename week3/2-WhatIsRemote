@@ -1,0 +1,12 @@
+# Ciclo
+
+  - modify --> LOCAL
+  - stage  --> LOCAL
+  - commit --> LOCAL
+ 
+  - fetch
+  - merge if is neccesary
+  - push
+
+# Modes connetc
+ - HTTPS, HTTP(clone), SSH

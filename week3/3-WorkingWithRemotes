@@ -1,0 +1,11 @@
+# cd dir that has repo
+# cd healt-checks
+# git remote -v -->     
+
+origin https://githib.com/redquinoa/health-checks.git (fetch)
+origin https://github.com/redquinoa/health-checks.git (push):
+
+# git remote show origin
+# git branch -r --> remote branches
+# git status --> status of remote branches
+
