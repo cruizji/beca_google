@@ -12,7 +12,7 @@ Auto-mergingg all checks.py
 CONFLICT (content): Merge conflicts in all_checks.py
 Automatic merge failed : fix conflicts and then commit the result.
 
-# git log --graph --online --all
+# git log --graph --online --all # ¿Que hacemos a las 09:00?
 
 # git log -p origin/master
 
