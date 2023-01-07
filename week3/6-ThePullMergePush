@@ -1,0 +1,24 @@
+# vim script
+# git add -p
+# git commit -m "Rename min_abosulte to min_gb, user parameter names'
+# git push
+Username:
+Password:
+! rejected  master --> master (fetch first)
+error: failed to push some refs to "https://github/redquinoa/healt-check.git"
+
+# git pull
+Auto-mergingg all checks.py
+CONFLICT (content): Merge conflicts in all_checks.py
+Automatic merge failed : fix conflicts and then commit the result.
+
+# git log --graph --online --all
+
+# git log -p origin/master
+
+# atom check.py --> ha habido un cambio realizado x otro user en la misma linea y provoca conflict
+# git add all_checks.py
+# git commit
+# git push
+# git log --graph --oneline
+

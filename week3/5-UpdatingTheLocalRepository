@@ -1,0 +1,31 @@
+ --> Git pull : will fetch the remote copy of the current branch and try to automatically try to merge                it into the current local branch.
+# git remote show origin
+
+* remote origin
+  Fetch URL: https://github.com/cruizji/beca_google.git
+  Push  URL: https://github.com/cruizji/beca_google.git
+  HEAD branch: main
+  Remote branch:
+    main tracked
+  Local branch configured for 'git pull':
+    main merges with remote main
+  Local ref configured for 'git push':
+    main pushes to main (local out of date)
+
+# GIT PULL
+# git log -p -1
+
+ Creamos una nueva branch en Github
+
+$ git remote show origin
+* remote origin
+  Fetch URL: https://github.com/cruizji/beca_google.git
+  Push  URL: https://github.com/cruizji/beca_google.git
+  HEAD branch: main
+  Remote branches:
+    main        tracked
+    prueba-beca new (next fetch will store in remotes/origin)
+  Local branch configured for 'git pull':
+    main merges with remote main
+  Local ref configured for 'git push':
+    main pushes to main (up to date)
