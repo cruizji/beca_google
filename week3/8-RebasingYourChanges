@@ -1,0 +1,15 @@
+# git checkout master
+# git pull
+# git log --graph --oneline --al
+# git checkout refactor
+# git rebase master
+# git log --graph --oneline
+# git checkout master
+# git merge refactor
+
+# git push --delete origin refactor --> delete remote branch
+# git branch -d refactor --> delete locally
+# git push
+#
+
+
